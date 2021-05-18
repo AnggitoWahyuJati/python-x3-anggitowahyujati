@@ -4,7 +4,7 @@ def penjumlah(n):
     if n <= 1:
         return n
     else:
-        return n + penjumlah(n-1)
+        return n + penjumlahan(n-1)
  
 bil = int(input('input bilangan : '))
  
